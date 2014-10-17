@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cui:home|Door43 (cui)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cui|d43-cui repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cui/archive/master.zip|d43-cui.zip]]
+
+**Recent Changes**
+{{changes>ns = cui}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cui|Ethnologue data]]
+
